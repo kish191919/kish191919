@@ -5,5 +5,6 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Big Data Developer</b> 
+  👋&nbsp; Hi! </b></b>
+  I'm <b>Big Data Developer</b> 
 </p>
