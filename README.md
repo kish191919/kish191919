@@ -13,6 +13,6 @@
 
 - 💼 Big Data Engineer at [PNC Bank](http://www.pnc.com/)
 
-- I love writing Python, Java and SQL and building fun experiments
+- I love writing Python and SQL and building fun experiments
 
 - 💬 Ask me about anything through email [kish1919@gmail.com]
